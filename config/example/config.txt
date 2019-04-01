@@ -401,7 +401,7 @@ STARLIGHT 0
 # DEFAULT_LANGUAGE_PREFIXES , # -
 
 # Control which submaps are loaded for the Dynamic Engine system
-ENGINE_MAP Supermatter Engine,Edison's Bane
+ENGINE_MAP Supermatter Engine V2, R-UST Engine V2
 
 # Controls if the 'time off' system is used for determining if players can play 'Off-Duty' jobs (requires SQL)
 # TIME_OFF
